@@ -1,0 +1,26 @@
+{
+  "name": "remark-oembedder-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnstonmatt/remark-oembedder-demo.git"
+  },
+  "keywords": [],
+  "author": "Matt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnstonmatt/remark-oembedder-demo/issues"
+  },
+  "homepage": "https://github.com/johnstonmatt/remark-oembedder-demo#readme",
+  "dependencies": {
+    "@remark-embedder/core": "^1.2.1",
+    "@remark-embedder/transformer-oembed": "^1.0.0",
+    "remark": "^13.0.0",
+    "remark-html": "^13.0.1"
+  }
+}
